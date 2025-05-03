@@ -6,6 +6,6 @@ tags:
   - Debuff
 draft: false
 ---
-![[Pasted image 20250502205601.png]]
+![[Pasted image 20250502211002.png]]
 
 
