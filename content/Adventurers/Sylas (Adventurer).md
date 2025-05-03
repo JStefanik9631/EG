@@ -3,11 +3,9 @@ tags:
   - Adventurer
   - Heavy
   - Whitestone
-  - Drain
   - Sylas
-draft: true
+draft: false
 ---
-Cards:
 
 | ![[Pasted image 20250502201619.png\|300]] | ![[Pasted image 20250502201627.png\|300]] | ![[Pasted image 20250502201633.png\|300]] |
 | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: |

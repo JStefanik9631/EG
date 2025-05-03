@@ -1,12 +1,11 @@
 ---
 tags:
   - Adventurer
-draft: true
+draft: false
 ---
 
 |     |     |     |
 | :-: | :-: | :-: |
 |     |     |     |
 
-Related Cards: 
 

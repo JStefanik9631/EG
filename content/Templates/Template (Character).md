@@ -1,7 +1,7 @@
 ---
 tags:
   - Character
-draft: true
+draft: false
 ---
 
 |     |     |     |
