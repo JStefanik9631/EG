@@ -4,9 +4,10 @@ tags:
   - Heavy
   - Whitestone
   - Sylas
+  - AttackDebuff
 draft: false
 ---
 
-| ![[Pasted image 20250502201619.png\|300]] | ![[Pasted image 20250502201627.png\|300]] | ![[Pasted image 20250502201633.png\|300]] |
+| ![[Pasted image 20250518222454.png\|300]] | ![[Pasted image 20250518222508.png\|300]] | ![[Pasted image 20250518222523.png\|300]] |
 | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: |
-| ![[Pasted image 20250502201642.png\|300]] | ![[Pasted image 20250502201648.png\|300]] |                                           |
+| ![[Pasted image 20250518222542.png\|300]] | ![[Pasted image 20250518222555.png\|300]] |                                           |
