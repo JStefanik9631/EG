@@ -4,6 +4,7 @@ tags:
   - Mystic
   - Ashari
   - Beast
+  - BeastShape
 draft: false
 ---
 

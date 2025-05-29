@@ -1,16 +1,14 @@
 ---
 tags:
   - Character
-  - Heavy
-  - AttackBuff
-  - Equipment
+  - Martial
+  - Whitestone
+  - Move
 draft: false
 ---
 
-| ![[Pasted image 20250529154740.png\|300]] | ![[Pasted image 20250529154750.png\|300]] | ![[Pasted image 20250529154801.png\|300]] |
+| ![[Pasted image 20250529154629.png\|300]] | ![[Pasted image 20250529154638.png\|300]] | ![[Pasted image 20250529154646.png\|300]] |
 | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: |
-
-
 
 
 

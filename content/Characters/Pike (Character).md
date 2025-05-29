@@ -1,16 +1,16 @@
 ---
 tags:
   - Character
+  - Mystic
   - Heavy
-  - AttackBuff
-  - Equipment
+  - Infiltrate
+  - DefenseDebuff
+  - Heal
 draft: false
 ---
 
-| ![[Pasted image 20250529154740.png\|300]] | ![[Pasted image 20250529154750.png\|300]] | ![[Pasted image 20250529154801.png\|300]] |
+| ![[Pasted image 20250529162450.png\|300]] | ![[Pasted image 20250529162500.png\|300]] | ![[Pasted image 20250529162510.png\|300]] |
 | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: |
-
-
 
 
 

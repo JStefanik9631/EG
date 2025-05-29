@@ -1,16 +1,14 @@
 ---
 tags:
   - Character
-  - Heavy
-  - AttackBuff
-  - Equipment
+  - Arcane
+  - LongRanged
+  - Shield
 draft: false
 ---
 
-| ![[Pasted image 20250529154740.png\|300]] | ![[Pasted image 20250529154750.png\|300]] | ![[Pasted image 20250529154801.png\|300]] |
+| ![[Pasted image 20250529161859.png\|300]] | ![[Pasted image 20250529161910.png\|300]] | ![[Pasted image 20250529161923.png\|300]] |
 | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: |
-
-
 
 
 

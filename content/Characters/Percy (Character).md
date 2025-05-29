@@ -1,16 +1,14 @@
 ---
 tags:
   - Character
-  - Heavy
-  - AttackBuff
+  - Finesse
+  - LongRanged
   - Equipment
 draft: false
 ---
 
-| ![[Pasted image 20250529154740.png\|300]] | ![[Pasted image 20250529154750.png\|300]] | ![[Pasted image 20250529154801.png\|300]] |
+| ![[Pasted image 20250529155421.png\|300]] | ![[Pasted image 20250529155431.png\|300]] | ![[Pasted image 20250529155443.png\|300]] |
 | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: |
-
-
 
 
 

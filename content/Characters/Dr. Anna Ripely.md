@@ -1,17 +1,16 @@
 ---
 tags:
   - Character
+  - Finesse
+  - LongRanged
+  - Caster
+  - Infiltrate
   - Whitestone
-  - Heavy
-  - Heal
 draft: false
 ---
 
-| ![[Pasted image 20250529160528.png\|300]] | ![[Pasted image 20250529160544.png\|300]] | ![[Pasted image 20250529160559.png\|300]] |
+| ![[Pasted image 20250529155552.png\|300]] | ![[Pasted image 20250529155603.png\|300]] | ![[Pasted image 20250529155613.png\|300]] |
 | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: |
-
-
-
 
 
 
