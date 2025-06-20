@@ -4,6 +4,7 @@ tags:
   - Mystic
   - Concentration
   - DefenseBuff
+  - Action
 draft: false
 ---
-![[Pasted image 20250502210946.png]]
+![[Pasted image 20250619193752.png|500]]

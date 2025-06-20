@@ -2,7 +2,8 @@
 tags:
   - Spell
   - Mystic
-  - Tap
+  - Action
+  - Exhaust
 draft: false
 ---
-![[Pasted image 20250502210927.png]]
+![[Pasted image 20250619192426.png|500]]

@@ -3,9 +3,11 @@ tags:
   - Spell
   - Mystic
   - Damage
-  - Debuff
+  - Action
+  - AttackDebuff
+  - DefenseDebuff
 draft: false
 ---
-![[Pasted image 20250502211002.png]]
+![[Pasted image 20250619194505.png|500]]
 
 

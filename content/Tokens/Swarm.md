@@ -4,4 +4,4 @@ tags:
   - Swarm
   - Undead
 ---
-![[Pasted image 20250518215522.png|300]]
+![[Pasted image 20250518215522.png|500]]

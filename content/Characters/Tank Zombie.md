@@ -5,6 +5,6 @@ tags:
   - MartialResistance
 draft: false
 ---
-![[Pasted image 20250529162941.png|300]]
+![[Pasted image 20250529162941.png|500]]
 
 
